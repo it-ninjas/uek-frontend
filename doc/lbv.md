@@ -52,11 +52,11 @@ Den KandidatInnen wird ein Template mit allen benötigten Libs als Basis zur Ver
 
 Anhand einer vorgegebenen API werden die 4 CRUD Operationen für einen Entitätstypen umgesetzt:
 
-* Create und Update mit Formularen [20-30%]
-* Validierung und Errorhandling [20-30%]
-* Read [15-25%]
-* Delete [10-15%]
-* Sicherung des Zugriffs [10-15%]
+* 20-30%: Create und Update mit Formularen [HZ 1, 2, 3, 5, 6]
+* 20-30%: Validierung und Errorhandling [HZ 3]
+* 15-25%: Read [HZ 2, 3]
+* 10-15%: Delete [HZ 2, 3]
+* 10-15%: Sicherung des Zugriffs [HZ 7]
 
 #### Praxisbezug
 
