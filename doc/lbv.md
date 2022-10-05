@@ -34,7 +34,7 @@ Einzelarbeit
 
 #### Richtzeit (Empfehlung)
 
-4h
+8 h
 
 #### Hilfsmittel
 
