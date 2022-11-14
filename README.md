@@ -24,3 +24,14 @@ basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/
 6. Prüfung
     1. [HTML/CSS](content/...)
     2. [React](content/...)
+
+## Allgemeiner Tagesablauf
+
+| Zeit          | Inhalt                                                            |
+|---------------|-------------------------------------------------------------------|
+| bis 08:00     | Ankommen, Reflektion Vortag, Update Lerndoku                      |
+| 08:00 - 09:00 | Theorieblock, Besprechung Tagesziele                              |
+| 09:00 - 09:15 | Pause                                                             |
+| 09:15 - 15:00 | Lernblock, Arbeiten am Projekt, individuelle Mittagspause/Pausen  |
+| 15:00 - 15:30 | Theorieblock, Fragen im Plenum klären                             |
+| ab 15:30      | Individuelles Abschliessen des Tages, Update Lerndoku, Reflektion |
