@@ -9,7 +9,7 @@ basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/
 1. [IDE und Tools](content/...)
 2. [JavaScript Basics](content/...)
 3. [JavaScript Framworks](content/...)
-4. [Einführung React](content/...)
+4. [React](content/4_react/README.md)
     1. [Components](content/4_react/1_components.md)
     1. [JSX](content/4_react/2_jsx.md)
     1. [Props](content/4_react/3_props.md)
