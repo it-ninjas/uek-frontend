@@ -1,5 +1,9 @@
 # Frontend ÜK
 
+<img src=".media/js.svg" alt="JavaScript" width="150"/> <img src=".media/react.svg" alt="React" width="150"/>
+
+<a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank"><img src=".media/cc-license-logo.png"></a>
+
 Kursinhalte zu ÜK 294 - Frontend einer interaktiven Webapplikation realisieren
 
 basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/1/de-DE?title=Frontend-einer-interaktiven-Webapplikation-realisieren)
