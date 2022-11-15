@@ -1,6 +1,6 @@
 # State
 
-## Lernkontrolle
+## Ziele
 
 - [ ] Du verstehst was State ist unabhängig von der verwendeten Technologie
 - [ ] Du kennst mind. 1 Möglichkeit um State zu managen (State Management)
