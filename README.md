@@ -25,6 +25,17 @@ basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/
     1. [HTML/CSS](content/...)
     2. [React](content/...)
 
+## Agenda
+
+| Tag   | Inhalt                             |
+|-------|------------------------------------|
+| Tag 1 | Kickoff, IDE/Tools, JS Basics      |
+| Tag 2 | JS Basics, JS Frameworks           |
+| Tag 3 | React I                            |
+| Tag 4 | React II, Start Kleinprojekt       |
+| Tag 5 | Abschluss Kleinprojekt             |
+| Tag 6 | Fachgespräch, Schriftliche Prüfung |
+
 ## Allgemeiner Tagesablauf
 
 | Zeit          | Inhalt                                                            |
