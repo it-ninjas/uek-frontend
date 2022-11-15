@@ -35,3 +35,11 @@ basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/
 | 09:15 - 15:00 | Lernblock, Arbeiten am Projekt, individuelle Mittagspause/Pausen  |
 | 15:00 - 15:30 | Theorieblock, Fragen im Plenum klären                             |
 | ab 15:30      | Individuelles Abschliessen des Tages, Update Lerndoku, Reflektion |
+
+## Leistungsbeurteilungsvorgaben (LBV)
+
+Für den Abschluss dieses ÜKs ist die offizielle LBV des Moduls [194-1](https://www.modulbaukasten.ch/module/294/1/de-DE?title=Frontend-einer-interaktiven-Webapplikation-realisieren&lbv=0) vorgesehen.
+
+**LBV 194-1 Element 1**: Schriftliche Prüfung, Einzelarbeit, Richtzeit: 1h, Gewichtung: 30%
+
+**LBV 194-1 Element 2**: Kleinprojekt, Gruppenarbeit/Einzelarbeit, Richtseit: 12h, Gewichtung: 70%, Fachgespräch: 0.5h
