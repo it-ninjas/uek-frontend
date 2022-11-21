@@ -51,6 +51,15 @@ basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/
 | 15:00 - 15:30 | Theorieblock, Fragen im Plenum klären                             |
 | ab 15:30      | Individuelles Abschliessen des Tages, Update Lerndoku, Reflektion |
 
+## Unterrichtsformen / Inhaltsformen
+
+* :green_book: Theorie
+* :bust_in_silhouette: Einzelarbeit
+* :busts_in_silhouette: Partnerarbeit
+* :movie_camera: Lern-Video / Video Tutorial
+* :computer: Tutorial / Praktische Arbeit
+* :mortar_board: Prüfung
+
 ## Leistungsbeurteilungsvorgaben (LBV)
 
 Für den Abschluss dieses ÜKs ist die offizielle LBV des Moduls [194-1](https://www.modulbaukasten.ch/module/294/1/de-DE?title=Frontend-einer-interaktiven-Webapplikation-realisieren&lbv=0) vorgesehen.
