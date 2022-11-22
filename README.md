@@ -38,7 +38,7 @@ basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/
 | Tag 3 | React I                            |
 | Tag 4 | React II, Start Kleinprojekt       |
 | Tag 5 | Abschluss Kleinprojekt             |
-| Tag 6 | Fachgespräch, Schriftliche Prüfung |
+| Tag 6 | Reflektion ÜK, Fachgespräch, Schriftliche Prüfung |
 
 ## Allgemeiner Tagesablauf
 
