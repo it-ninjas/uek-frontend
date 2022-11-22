@@ -62,7 +62,7 @@ basierend auf dem Modulbeschrieb [294](https://www.modulbaukasten.ch/module/294/
 
 ## Leistungsbeurteilungsvorgaben (LBV)
 
-Für den Abschluss dieses ÜKs ist die offizielle LBV des Moduls [194-1](https://www.modulbaukasten.ch/module/294/1/de-DE?title=Frontend-einer-interaktiven-Webapplikation-realisieren&lbv=0) vorgesehen.
+Für den Abschluss dieses ÜKs ist die offizielle LBV des Moduls [294-1](https://www.modulbaukasten.ch/module/294/1/de-DE?title=Frontend-einer-interaktiven-Webapplikation-realisieren&lbv=0) vorgesehen.
 
 1. **LBV 194-1 Element 1**: Schriftliche Prüfung, Einzelarbeit, Richtzeit: 1h, Gewichtung: 30%
 1. **LBV 194-1 Element 2**: Kleinprojekt, Gruppenarbeit/Einzelarbeit, Richtzeit: 12h, Gewichtung: 70%, Fachgespräch: 0.5h
