@@ -18,7 +18,7 @@
 | MO | 1.5  | React I                                           | Päscu          | Puzzle Belpstrasse 37 |
 | DI | 2.5  | React II, Start Kleinprojekt                      | Päscu          | Puzzle Belpstrasse 37 |
 | MO | 8.5  | Abschluss Kleinprojekt                            | Gäbu           | SBB Bollwerk ?        |
-| DI | 9.5  | Reflektion ÜK, Fachgespräch, Schriftliche Prüfung | Sämu           | SBB Bollwerk ?        |
+| MO | 15.5 | Reflektion ÜK, Fachgespräch, Schriftliche Prüfung | Sämu           | SBB Bollwerk ?        |
 
 Verantwortlicher: 
 
