@@ -24,3 +24,4 @@ Verantwortlicher:
 * Macht Morgenpräsi/QA Session
 * Stellt sicher das Räumlichkeiten usw. verfügbar sind
 * ist Hauptansprechperson an diesem Tag
+* Stellt sicher das der geplante Stoff an diesem Tag behandelt wird
