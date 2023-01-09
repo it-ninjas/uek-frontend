@@ -1,4 +1,4 @@
-# Variablen
+# Variablen deklarieren
 
 ## Ziele
 - [ ] Du weisst, wie du Variablen deklarierst.
@@ -77,7 +77,7 @@ Wenn du wissen willst, wieso `var` nicht mehr verwendet werden sollte, dann kann
 ### Destructuring Assignment
 In JavaScript siehst du sehr oft, dass mehrere Variablen auf einmal definiert werden.
 
-Wie in anderen Programmiersprachen kannst du Variablen in einem einzigen Statement definieren (das ist kein Sestructuring Assignment):
+Wie in anderen Programmiersprachen kannst du Variablen in einem einzigen Statement definieren (das ist kein Destructuring Assignment):
 
 ```javascript
 const a = "A", b = "B";
