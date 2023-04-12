@@ -20,10 +20,10 @@ Mit departure können Benutzer die persönlichen ÖV Verbindungen verwalten und 
 * Ist am aktuellen Tag keine Verbindung mehr vorhanden, werden die Verbindungen des nächsten Tages angezeigt. In diesem Fall soll ein entsprechender Hinweis angezeigt werden. 
 * Eine Verbindung kann via URL an einen anderen Benutzer gesendet werden. Für die Anzeige einer solchen Verbindung wird kein Login benötigt.
 
-
 ### Nicht funktionale Anforderungen
 * Verwendung einer i18n Library (z.B. i18next)
 * Source Code in einem öffentlichen Github Repo
+* Die öV-Verbindungsdaten werden via https://transport.opendata.ch/ abgerufen
 
 ### Optionale Anforderungen
 * Registrierung neuer Benutzer
