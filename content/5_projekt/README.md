@@ -10,7 +10,7 @@ Mit departure können Benutzer die persönlichen ÖV Verbindungen verwalten und 
 
 ### Funktionale Anforderungen
 
-* Benutzer kann eigene Verbindungen mit von/zu Haltestelle verwalten (CRUD)
+* Benutzer kann eigene Verbindungen mit von/zu Haltestelle verwalten (CRUD ohne Update)
 * Um Verbindungen zu verwalten muss sich der Benutzer erst mit seiner E-Mail und einem Passwort anmelden. 
 * Auf der Hauptseite wird eine Liste aller gespeicherten Verbindungen angezeigt
 * Beim Klick auf eine Verbindung werden die nächsten 5 Verbindungen angezeigt:
@@ -18,12 +18,17 @@ Mit departure können Benutzer die persönlichen ÖV Verbindungen verwalten und 
   * Verspätung in Minuten
   * Status: ...
 * Ist am aktuellen Tag keine Verbindung mehr vorhanden, werden die Verbindungen des nächsten Tages angezeigt. In diesem Fall soll ein entsprechender Hinweis angezeigt werden. 
-* Eine Verbindung kann via URL an einen anderen Benutzer gesendet werden. Für die Anzeige einer solchen Verbindung wird kein Login benötigt.
 
 ### Nicht funktionale Anforderungen
+* Als Backend wird folgendes Projekt verwendet: https://github.com/it-ninjas/fuek-departure-api
 * Verwendung einer i18n Library (z.B. i18next)
+* momentjs oder ähnliche Library um Datum/Zeit zu formatieren oder Berechnungen zu machen
+* Für das Routing wird React Router verwendet
 * Source Code in einem öffentlichen Github Repo
 * Die öV-Verbindungsdaten werden via https://transport.opendata.ch/ abgerufen
+* README.md vorhanden:
+  * Beschreibt die Ordnerstruktur (was ist wo?)
+  * Setupanleitung vorhanden
 
 ### Optionale Anforderungen
-* Registrierung neuer Benutzer
+* 
