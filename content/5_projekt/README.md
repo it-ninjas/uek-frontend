@@ -1,18 +1,18 @@
 # Projekt
 
-Nach der Theorie und den Übungen könnt ihr euer wissen nun in einem eigenen, kleinen Projekt anwenden und vertiefen:
+Nach der Theorie und den Übungen könnt ihr euer Wissen nun in einem eigenen, kleinen Projekt anwenden und vertiefen:
 
 ## Departure
 
-Departure - dein Dashboard für den öffentlichen Verkehr
+Departure - dein Dashboard für den öffentlichen Verkehr.
 
-Mit departure können Benutzer die persönlichen ÖV Verbindungen verwalten und deren Status live anzeigen lassen.
+Mit departure können Benutzer die persönlichen öV-Verbindungen verwalten und deren Status live anzeigen lassen.
 
 ### Funktionale Anforderungen
 
-* Benutzer kann eigene Verbindungen mit von/zu Haltestelle verwalten (CRUD ohne Update)
-* Um Verbindungen zu verwalten muss sich der Benutzer erst mit seiner E-Mail und einem Passwort anmelden. 
-* Auf der Hauptseite wird eine Liste aller gespeicherten Verbindungen angezeigt
+* Benutzer kann eigene Verbindungen mit von/zu-Haltestelle verwalten (CRUD ohne Update).
+* Um Verbindungen zu verwalten, muss sich der Benutzer erst mit seiner E-Mail und einem Passwort anmelden (keine Registration erforderlich, Anmeldedaten sind im Backend hartcodiert).
+* Auf der Hauptseite wird eine Liste aller gespeicherten Verbindungen angezeigt.
 * Beim Klick auf eine Verbindung werden die nächsten 5 Verbindungen angezeigt:
   * Abfahrt in: x h, min
   * Verspätung in Minuten
@@ -25,9 +25,9 @@ Mit departure können Benutzer die persönlichen ÖV Verbindungen verwalten und 
 * Source Code in JavaScript, kein Typescript
 * Verwendung einer i18n Library (z.B. i18next)
 * Design ist mit Twitter Bootstrap implementiert
-* Es gibt custom CSS Definitionen die mit SCSS implementiert sind
-* momentjs oder ähnliche Library um Datum/Zeit zu formatieren oder Berechnungen zu machen
-* Es ist ein Testframework in das Projekt integriert und mind. eine Komponente wird automatisiert getestet
+* Es gibt eigene CSS-Regeln, die mit SCSS implementiert worden sind.
+* Es wurde `momentjs` oder eine ähnliche Library verwendet, um Datum/Zeit zu formatieren oder Berechnungen damit durchzuführen.
+* Es ist ein Testframework in das Projekt integriert worden und mind. eine Komponente wird automatisiert getestet. Es existieren insgesamt mind. 3 Unit-Tests.
 * Für das Routing wird React Router verwendet
 * Source Code in einem öffentlichen Github Repo
 * Die öV-Verbindungsdaten werden via https://transport.opendata.ch/ abgerufen
@@ -35,5 +35,12 @@ Mit departure können Benutzer die persönlichen ÖV Verbindungen verwalten und 
   * Beschreibt die Ordnerstruktur (was ist wo?)
   * Setupanleitung vorhanden
 
-### Optionale Anforderungen
-* 
+### Vorgehen
+
+* Erstelle zuerst eine Skizze von deiner Lösung (Mockups oder auf Papier)
+* Erstelle ein neues React-Projekt.
+* Lade dieses auf GitHub hoch und teile den entsprechenden Link (inkl. Berechtigungen) mit den Coaches.
+* Mache dir Gedanken über eine sinnvolle Ordner-Struktur und setze diese um (Tipp: berücksichtige funktionalen sowie nicht-funktionalen Anforderungen).
+* Bringe das Backend lokal zum Laufen und stelle sicher, dass die Unit Tests laufen (gem. Backend-README).
+* Versuche z.B. mit PostMan, dich einzuloggen und mache dich mit der REST API vertraut.
+* Nun kannst du mit dem Projekt beginnen. Happy Coding :)
