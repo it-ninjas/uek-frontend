@@ -17,6 +17,7 @@ Mit departure können Benutzer die persönlichen öV-Verbindungen verwalten und 
   * Abfahrt in: x h, min
   * Verspätung in Minuten
   * Status: ...
+* Ist die Verbindungsseite geöffnet, werden die Daten im Minutentakt aktualisiert
 * Ist am aktuellen Tag keine Verbindung mehr vorhanden, werden die Verbindungen des nächsten Tages angezeigt. In diesem Fall soll ein entsprechender Hinweis angezeigt werden. 
 
 ### Nicht funktionale Anforderungen
