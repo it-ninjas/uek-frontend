@@ -20,9 +20,14 @@ Mit departure können Benutzer die persönlichen ÖV Verbindungen verwalten und 
 * Ist am aktuellen Tag keine Verbindung mehr vorhanden, werden die Verbindungen des nächsten Tages angezeigt. In diesem Fall soll ein entsprechender Hinweis angezeigt werden. 
 
 ### Nicht funktionale Anforderungen
+
 * Als Backend wird folgendes Projekt verwendet: https://github.com/it-ninjas/fuek-departure-api
+* Source Code in JavaScript, kein Typescript
 * Verwendung einer i18n Library (z.B. i18next)
+* Design ist mit Twitter Bootstrap implementiert
+* Es gibt custom CSS Definitionen die mit SCSS implementiert sind
 * momentjs oder ähnliche Library um Datum/Zeit zu formatieren oder Berechnungen zu machen
+* Es ist ein Testframework in das Projekt integriert und mind. eine Komponente wird automatisiert getestet
 * Für das Routing wird React Router verwendet
 * Source Code in einem öffentlichen Github Repo
 * Die öV-Verbindungsdaten werden via https://transport.opendata.ch/ abgerufen
