@@ -33,6 +33,7 @@ Mit departure können Benutzer die persönlichen öV-Verbindungen verwalten und 
 * Für das Routing wird React Router verwendet
 * Source Code in einem öffentlichen Github Repo
 * Die öV-Verbindungsdaten werden via https://transport.opendata.ch/ abgerufen
+* Für das Projekt wurden Linter wie ESLint und Prettier konfiguriert und verwendet.
 * README.md vorhanden:
   * Beschreibt die Ordnerstruktur (was ist wo?)
   * Setupanleitung vorhanden
