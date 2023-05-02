@@ -38,6 +38,7 @@ Mit departure können Benutzer die persönlichen öV-Verbindungen verwalten und 
 * README.md vorhanden:
   * Beschreibt die Ordnerstruktur (was ist wo?)
   * Setupanleitung vorhanden
+* Beim Verwenden der Applikation werden keine Errors auf der Konsole des Browsers ausgegeben.
 
 ### Vorgehen
 
