@@ -18,21 +18,22 @@ Mit departure können Benutzer die persönlichen öV-Verbindungen verwalten und 
   * Verspätung in Minuten
   * Status: ...
   * Optional: weitere nützliche Infos
+  * Pro Verbindung eine eindeutige URL (Bookmarking)
 * Ist die Verbindungsseite geöffnet, werden die Daten im Minutentakt aktualisiert
-* Ist am aktuellen Tag keine Verbindung mehr vorhanden, werden die Verbindungen des nächsten Tages angezeigt. In diesem Fall soll ein entsprechender Hinweis angezeigt werden. 
+* Ist am aktuellen Tag keine Verbindung mehr vorhanden, werden die Verbindungen des nächsten Tages angezeigt. In diesem Fall soll ein entsprechender Hinweis angezeigt werden.
 
 ### Nicht funktionale Anforderungen
 
 * Als Backend wird folgendes Projekt verwendet: https://github.com/it-ninjas/fuek-departure-api
+* Die öV-Verbindungsdaten werden via https://transport.opendata.ch/ abgerufen
 * Source Code in JavaScript, kein Typescript
 * Verwendung einer i18n Library (z.B. i18next), alle Texte sind übersetzt und nicht hardcoded im Code. UI Sprache ist vorerst nur Deutsch.
 * Design ist mit Twitter Bootstrap implementiert (react-bootstrap wird empfohlen)
 * Es gibt eigene CSS-Regeln, die mit SCSS implementiert worden sind. Bootstrap soll mit einigen Custom-Rules angepasst werden. (z.B. Farbe, Schrift)
 * Es wurde `momentjs` oder eine ähnliche Library verwendet, um Datum/Zeit zu formatieren oder Berechnungen damit durchzuführen.
-* Es ist ein Testframework in das Projekt integriert worden und mind. eine Komponente wird automatisiert getestet. Es existieren insgesamt mind. 3 Unit-Tests.
+* Es ist ein Testframework in das Projekt integriert worden und mind. eine Komponente wird automatisiert getestet. Es existieren mind. 3 sinnvolle Tests.
 * Für das Routing wird React Router verwendet
 * Source Code in einem öffentlichen Github Repo
-* Die öV-Verbindungsdaten werden via https://transport.opendata.ch/ abgerufen
 * Für das Projekt wurden Linter wie ESLint und Prettier konfiguriert und verwendet.
 * README.md vorhanden:
   * Beschreibt die Ordnerstruktur (was ist wo?)
@@ -42,8 +43,9 @@ Mit departure können Benutzer die persönlichen öV-Verbindungen verwalten und 
 
 * Suche einen Partner-Ninja und trage dich in der Liste ein
 * Erstelle zuerst eine Skizze von deiner Lösung (Mockups oder auf Papier)
-* Erstellt ein neues React-Projekt und arbeitet euch durch Thinking-React (https://react.dev/learn/thinking-in-react)
+* Erstellt ein neues React-Projekt und arbeitet euch durch Thinking-React (https://react.dev/learn/thinking-in-react).
 * Erstellt ein öffentliches Github-Repo und tragt den Link in die Liste ein
+  * Es ist erlaubt, die Repositories der anderen Teams anzuschauen. Euer Projekt muss klar eine Eigenleistung sein.
 * Macht euch Gedanken über eine sinnvolle Ordner-Struktur und dokumentiert diese kurz und bündig
 * Bringe das Backend lokal zum Laufen und stelle sicher, dass die Unit Tests laufen (gem. Backend-README).
 * Versuche z.B. mit PostMan, dich einzuloggen und mache dich mit der REST API vertraut.
