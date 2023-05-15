@@ -1,3 +1,5 @@
+Präsi: https://slides.com/paescus/react-js
+
 # 4 React
 
 * React ist 'nur' eine **view library** und kein komplettes SPA framework
